@@ -1,11 +1,11 @@
 # Sudoku-Solver-with-GUI
 **Features:** </br>
-Sudoku solver with GUI, implementing the backtracking algrorithm to find out the solution. </br>
-Display live backtracking as it happens. </br>
-Adjustable speed of the backtracking for you to see it as it happens. </br>
-User can input the given sudoku elements.</br>
-The input sudoku will be validated and solved if a solution exists.</br>
-Added functionality of taking input from csv or text file. </br>
+* Sudoku solver with GUI, implementing the backtracking algrorithm to find out the solution. </br>
+* Display live backtracking as it happens. </br>
+* Adjustable speed of the backtracking for you to see it as it happens. </br>
+* User can input the given sudoku elements.</br>
+* The input sudoku will be validated and solved if a solution exists.</br>
+* Added functionality of taking input from csv or text file. </br>
 
 **Algorithmic appproch:**</br>
 While solving and developing this code for the problem, used both constraint satisfaction along and algorithmic backtracking to solve the board.
